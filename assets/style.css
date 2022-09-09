@@ -86,3 +86,1661 @@ main .show__me {
     color: #152C5B;
     font-weight: bold;
 }
+
+/* Rectangle 19 */
+
+.most__picked h2{
+
+position: absolute;
+width: 144px;
+height: 36px;
+left: 221px;
+top: 640px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #152C5B;
+
+
+}
+
+.img__picked img{
+    /* Rectangle 19 */  
+
+position: absolute;
+width: 360px;
+height: 460px;
+left: 218px;
+top: 696px;
+
+background: linear-gradient(180deg, rgba(44, 155, 217, 0) 49.33%, rgba(196, 196, 196, 0.5) 100%);
+border-radius: 15px;
+
+}
+
+
+
+#finss__beach {
+    /* Finns Beach Club */
+
+position: absolute;
+width: 180.5px;
+height: 22px;
+left: 241.93px;
+top: 1084px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+#denpasar__bali{
+    /* Denpasar, Bali */
+
+position: absolute;
+width: 108.7px;
+height: 16px;
+left: 241.93px;
+top: 1116px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #152C5B;
+
+
+}
+
+.montigo__resort{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 360px;
+height: 215px;
+left: 608px;
+top: 696px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+#montigo__atas {
+    /* Montigo Resort */
+
+position: absolute;
+width: 180.5px;
+height: 22px;
+left: 631.93px;
+top: 839px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+}
+
+#montigo__bawah{
+    /* Rio De Janeiro, Brazil */
+
+position: absolute;
+width: 151px;
+height: 16px;
+left: 632px;
+top: 871px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #152C5B;
+
+
+}
+
+#montana__atas{
+    /* Montana Bay */
+
+position: absolute;
+width: 181px;
+height: 22px;
+left: 1022px;
+top: 839px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+#montana__bawah{
+    /* Berlin, Germany */
+
+position: absolute;
+width: 181px;
+height: 16px;
+left: 1022px;
+top: 871px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #152C5B;
+
+
+}
+
+
+.montana__bay{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 361px;
+height: 215px;
+left: 998px;
+top: 696px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+#kalpa__atas{
+    /* Kalpa Tree */
+
+position: absolute;
+width: 180.5px;
+height: 22px;
+left: 631.93px;
+top: 1084px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+#kalpa__bawah{
+    /* Ternate, Nusa Tenggara Barat */
+
+position: absolute;
+width: 228px;
+height: 16px;
+left: 632px;
+top: 1116px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #152C5B;
+
+
+}
+
+#caesar__atas{
+    /* Caesar Palace */
+
+position: absolute;
+width: 181px;
+height: 22px;
+left: 1022px;
+top: 1084px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+#caesar__bawah{
+    /* Las Vegas, America */
+
+position: absolute;
+width: 152px;
+height: 16px;
+left: 1022px;
+top: 1116px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #152C5B;
+
+
+}
+
+#finss__harga{
+    /* Rectangle 20 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+/* $50 per night */
+
+position: relative;
+width: 120px;
+height: 31px;
+left: 460px;
+top: 78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+
+
+color: #FFFFFF;
+
+
+
+
+}
+
+.kalpa__tree{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 360px;
+height: 215px;
+left: 608px;
+top: 941px;
+
+background: linear-gradient(180deg, rgba(44, 155, 217, 0) 49.33%, rgba(196, 196, 196, 0.5) 100%);
+border-radius: 15px;
+
+}
+
+.caesar__palace{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 361px;
+height: 215px;
+left: 998px;
+top: 941px;
+
+background: linear-gradient(180deg, rgba(44, 155, 217, 0) 49.33%, rgba(196, 196, 196, 0.5) 100%);
+border-radius: 15px;
+
+}
+
+img .montigo__resort{
+    /* Rectangle 20 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+/* $50 per night */
+
+position: absolute;
+width: 118px;
+height: 31px;
+left: 30px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+
+}
+
+#montigo__harga{
+    /* $50 per night */
+
+position: absolute;
+width: 118px;
+height: 31px;
+left: 30px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+/* Rectangle 20 */
+
+position: absolute;
+left: auto;
+right: 0%;
+top: -8.5%;
+bottom: auto;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+}
+
+#montana__harga{
+    /* $50 per night */
+
+position: absolute;
+width: 132px;
+height: 31px;
+right: 30px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+/* Rectangle 20 */
+
+position: absolute;
+left: auto;
+right: 0%;
+top: -8.5%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+}
+
+#kalpa__harga{
+    /* $50 per night */
+
+position: absolute;
+width: 119px;
+height: 31px;
+left: 30px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+/* Rectangle 20 */
+
+position: absolute;
+left: auto;
+right: 0%;
+top: -8.5%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+}
+
+#caesar__harga{
+    /* $50 per night */
+
+position: absolute;
+width: 118px;
+height: 31px;
+left: 30px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+/* Rectangle 20 */
+
+position: absolute;
+left: auto;
+right: 0%;
+top: -8.5%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+}
+
+.container h2{
+    /* Houses with backyard */
+
+position: absolute;
+width: 268px;
+height: 36px;
+left: 156px;
+top: 1287px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #152C5B;
+
+
+}
+
+.backyard01{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 263px;
+height: 180px;
+left: 150px;
+top: 1343px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.backyard02{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 262.22px;
+height: 180px;
+left: 442.78px;
+top: 1343px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.backyard03{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 261.87px;
+height: 180px;
+left: 736.13px;
+top: 1343px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.backyard04{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 261.87px;
+height: 180px;
+left: 1028.13px;
+top: 1344px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.backyard_atas01{
+    /* Tabby Town */
+
+position: absolute;
+width: 180.5px;
+height: 22px;
+left: 148.93px;
+top: 1553px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+.backyard_bawah01{
+    /* Gunug Batu, Indonesia */
+
+position: absolute;
+width: 228px;
+height: 16px;
+left: 149px;
+top: 1585px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.anggana_atas{
+    /* Anggana */
+
+position: absolute;
+width: 131.47px;
+height: 22px;
+left: 443px;
+top: 1553px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+
+
+}
+
+.anggana_bawah{
+    /* Bogor, Indonesia */
+
+position: absolute;
+width: 231px;
+height: 16px;
+left: 443px;
+top: 1585px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.seattle_atas{
+    /* Seattle Rain */
+
+position: absolute;
+width: 179.72px;
+height: 22px;
+left: 736px;
+top: 1553px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+.seattle_bawah{
+    /* Jakarta, Indonesia */
+
+position: absolute;
+width: 227.02px;
+height: 16px;
+left: 736.07px;
+top: 1585px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.wooden_atas{
+/* Wooden Pit */
+
+position: absolute;
+width: 179.72px;
+height: 22px;
+left: 1029.07px;
+top: 1553px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+
+
+}
+
+.wooden_bawah{
+    /* Wonosobo, Indonesia */
+
+position: absolute;
+width: 227.02px;
+height: 16px;
+left: 1029.13px;
+top: 1585px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+
+.container h3 {
+    /* Hotels with living room */
+
+position: absolute;
+width: 274px;
+height: 36px;
+left: 157.07px;
+top: 1662px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #152C5B;
+
+
+}
+
+
+.room{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 263px;
+height: 180px;
+left: 150px;
+top: 1725px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.room02{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 262.22px;
+height: 180px;
+left: 442.78px;
+top: 1725px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.room03{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 261.87px;
+height: 180px;
+left: 736.13px;
+top: 1725px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.room04{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 261.87px;
+height: 180px;
+left: 1028.13px;
+top: 1725px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.green_atas{
+    /* Green Park */
+
+position: absolute;
+width: 180.5px;
+height: 22px;
+left: 148.93px;
+top: 1900px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+.green_bawah{
+    /* Tangerang, Indonesia */
+
+position: absolute;
+width: 228px;
+height: 16px;
+left: 149px;
+top: 1930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.podo_atas{
+    /* Podo Wae */
+
+position: absolute;
+width: 131.47px;
+height: 22px;
+left: 443px;
+top: 1900px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+
+
+}
+
+.podo_bawah{
+    /* Madiun, Indonesia */
+
+position: absolute;
+width: 231px;
+height: 16px;
+left: 443px;
+top: 1930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.silver_atas{
+    /* Silver Rain */
+
+position: absolute;
+width: 179.72px;
+height: 22px;
+left: 736px;
+top: 1900px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+.silver_bawah{
+    /* Bandung, Indonesia */
+
+position: absolute;
+width: 227.02px;
+height: 16px;
+left: 736.07px;
+top: 1930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.cashville_atas{
+/* Cashville */
+
+position: absolute;
+width: 179.72px;
+height: 22px;
+left: 1029.07px;
+top: 1900px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+
+
+}
+
+#popular__cash{
+    /* Rectangle 20 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+/* Popular Choice */
+
+position: relative;
+width: 180px;
+height: 40px;
+left: 1109px;
+top: 1058px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+
+
+color: #FFFFFF;
+
+
+
+
+}
+
+.cashville_bawah{
+    /* Kemang, Indonesia */
+
+position: absolute;
+width: 227.02px;
+height: 16px;
+left: 1029.13px;
+top: 1930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+
+
+.container h4 {
+    /* Apartement with kitchen */
+
+position: absolute;
+width: 274px;
+height: 36px;
+left: 157.07px;
+top: 1998px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #152C5B;
+
+
+}
+
+
+.kitchen{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 263px;
+height: 180px;
+left: 150px;
+top: 2072px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.kitchen02{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 262.22px;
+height: 180px;
+left: 442.78px;
+top: 2072px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.kitchen03{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 261.87px;
+height: 180px;
+left: 736.13px;
+top: 2072px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.kitchen04{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 261.87px;
+height: 180px;
+left: 1028.13px;
+top: 2072px;
+
+background: url(image.png);
+border-radius: 15px;
+
+}
+
+.ps_atas{
+    /* PS Wood */
+
+position: absolute;
+width: 180.5px;
+height: 22px;
+left: 148.93px;
+top: 2250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+.ps_bawah{
+    /* Depok, Indonesia */
+
+position: absolute;
+width: 228px;
+height: 16px;
+left: 149px;
+top: 2282px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.one_atas{
+    /* One Five */
+
+position: absolute;
+width: 131.47px;
+height: 22px;
+left: 443px;
+top: 2250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+
+
+}
+
+.one_bawah{
+    /* Jakarta, Indonesia */
+
+position: absolute;
+width: 231px;
+height: 16px;
+left: 443px;
+top: 2280px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+
+#popular__minimal{
+    /* Rectangle 20 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF498B;
+border-radius: 0px 15px;
+
+/* Popular Choice */
+
+position: relative;
+width: 180px;
+height: 40px;
+left: 817px;
+top: 1347px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+
+
+color: #FFFFFF;
+
+
+}
+
+.minimal_atas{
+    /* Minimal */
+
+position: absolute;
+width: 179.72px;
+height: 22px;
+left: 736px;
+top: 2250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+}
+
+.minimal_bawah{
+    /* Bogor, Indonesia */
+
+position: absolute;
+width: 227.02px;
+height: 16px;
+left: 736.07px;
+top: 2282px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+}
+
+.stays_atas{
+/* Stays Home */
+
+position: absolute;
+width: 179.72px;
+height: 22px;
+left: 1029.07px;
+top: 2250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+color: #152C5B;
+
+
+
+
+}
+
+.stays_bawah{
+    /* Wonosobo,Indonesia */
+
+position: absolute;
+width: 227.02px;
+height: 16px;
+left: 1029.13px;
+top: 2282px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #B0B0B0;
+
+
+
+
+}
+
+
+.container h5{
+    /* Happy Family */
+
+position: absolute;
+width: auto;
+height: auto;
+left: 600px;
+top: 2550px;
+
+font-family: 'poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #152C5B;
+
+
+}
+
+
+.picture{
+    /* picture */
+
+position: absolute;
+width: 350px;
+height: 500px;
+left: 180px;
+top: 2500px;
+
+transform: rotate(-180deg);
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 350px;
+height: 500px;
+left: 195px;
+top: 2550px;
+
+background: #C4C4C4;
+border-radius: 150px 15px 15px 15px;
+transform: rotate(-180deg);
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 500px;
+left: 180px;
+top: 2500px;
+
+background: url(image.png);
+border-radius: 100px 15px 15px 15px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+.star1{
+  /* ic_star */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 600px;
+top: 2638px;
+
+
+
+/* box */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 600px;
+top: 2638px;
+
+border-radius: 1px;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 600px;
+top: 2638px;
+
+background: #FFFFFF;
+border-radius: 1px;
+
+}
+
+
+.star2{
+    /* ic_star */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 625px;
+top: 2638px;
+
+
+
+/* box */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 625px;
+top: 2638px;
+
+border-radius: 1px;
+
+
+/* Star 2 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 625px;
+top: 2638px;
+
+background: #FFFFFF;
+border-radius: 1px;
+
+}
+
+
+.star3{
+    /* ic_star */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 650px;
+top: 2638px;
+
+
+
+/* box */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 650px;
+top: 2638px;
+
+border-radius: 1px;
+
+
+/* Star 3 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 650px;
+top: 2638px;
+
+background: #FFFFFF;
+border-radius: 1px;
+
+}
+
+
+.star4{
+    /* ic_star */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 675px;
+top: 2638px;
+
+
+
+/* box */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 675px;
+top: 2638px;
+
+border-radius: 1px;
+
+
+/* Star 4 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 675px;
+top: 2638px;
+
+background: #FFFFFF;
+border-radius: 1px;
+
+}
+
+
+.star5{
+    /* ic_star */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 700px;
+top: 2638px;
+
+
+
+/* box */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 700px;
+top: 2638px;
+
+border-radius: 1px;
+
+
+/* Star 5 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 700px;
+top: 2638px;
+
+background: #FFFFFF;
+border-radius: 1px;
+
+}
+
+
+.what{
+    /* What a great trip with my family and I should try again next time soon ... */
+
+
+position: absolute;
+width: 611px;
+height: 96px;
+left: 600px;
+top: 2644px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 35px;
+
+color: #152C5B;
+}
+
+
+.adi{
+    /* Adi, UI/UX Designer */
+
+
+position: absolute;
+width: 166px;
+height: 27px;
+left: 600px;
+top: 2760px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #152C5B;
+}
+
+
+main .btn{
+    /* btn_primary */
+
+position: absolute;
+width: 210px;
+height: 50px;
+left: 643px;
+top: 2819px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 210px;
+height: 50px;
+left: 643px;
+top: 2819px;
+
+background: #3252DF;
+box-shadow: 0px 8px 15px rgba(50, 82, 223, 0.3);
+border-radius: 4px;
+
+
+/* Read Our Stories */
+
+position: absolute;
+width: 160px;
+height: 35px;
+left: 600px;
+top: 2828px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* identical to box height, or 31px */
+
+color: #FFFFFF;
+
+
+
+}
+
+footer {
+    /* Staycation. */
+
+
+position: absolute;
+width: 137px;
+height: 39.6px;
+left: 150px;
+top: 3119.1px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+color: #3252DF;
+
+
+/* We kaboom your beauty holiday instantly and memorable. */
+
+
+position: absolute;
+width: 292px;
+height: 59.4px;
+left: 150px;
+top: 3167.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 27px;
+
+color: #B0B0B0;
+}
+
+
